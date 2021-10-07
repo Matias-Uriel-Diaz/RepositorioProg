@@ -1,0 +1,84 @@
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\bin\Debug\Carpinteria.exe.config
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\bin\Debug\Carpinteria.exe
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\bin\Debug\Carpinteria.pdb
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.exe
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.pdb
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmNuevoPresupuesto.resources
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmPrincipal.resources
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Carpinteria.exe.config
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Carpinteria.exe
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Carpinteria.pdb
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.csproj.AssemblyReference.cache
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmNuevoPresupuesto.resources
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmPrincipal.resources
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.Properties.Resources.resources
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.csproj.GenerateResource.cache
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.csproj.CoreCompileInputs.cache
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.exe
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.pdb
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\EnvDTE.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\stdole.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\Microsoft.MSXML.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.Formularios.frmReporteProductos.resources
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\RdlCompile.cache
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\RdlCompile.compiled
+C:\Users\assas\Documents\ROCCO 2021\TUP\PRIMER AÑO\SEGUNDO SEMESTRE\PROGRAMACION\REPASO_P1\Carpinteria\obj\Debug\Carpinteria.csproj.CopyComplete
